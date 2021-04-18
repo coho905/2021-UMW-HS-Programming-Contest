@@ -7,7 +7,7 @@ This contest was held on April 10, 2021 and lasted just over 3.5 hours for 14 pr
 ![Leaderboard](https://github.com/GabrielHogan/2021-UMW-HS-Programming-Contest/blob/main/media/FinalLeaderboard.png)
 
 # Problem Set
-The Problem Set Can Be Accessed Under **media/ProblemSet.pdf**
+The Problem Set Can Be Accessed Under **main/media/ProblemSet.pdf**
 
 # Team
 Gabe Hogan, Colin Wolfe, Kellina Brennan, Foster Moon
